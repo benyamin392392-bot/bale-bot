@@ -1,6 +1,7 @@
 requests
 aiohttp
 python-dotenv
-bale
+python-bale-bot
+
 
 
